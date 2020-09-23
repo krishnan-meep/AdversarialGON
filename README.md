@@ -7,4 +7,8 @@ bigger weightage given to the latter.
 This is an extended/modified version of the code found [here](https://github.com/cwkx/GON) for GONs. Relativistic
 Averaging Loss is used for the adversarial loss. 
 
+Samples from the Implicit GON
 ![](https://github.com/krishnan-meep/AdversarialGON/blob/master/images/samples_1.png)
+
+Reconstructions from the Convolutional GON model
+![](https://github.com/krishnan-meep/AdversarialGON/blob/master/images/recons_1.png)
